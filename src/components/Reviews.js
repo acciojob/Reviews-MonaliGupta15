@@ -87,7 +87,7 @@ const[curr, setCurr] = useState(0)
               break
             }
           }
-        }}>Surprise me</button>
+        }}>surprise me</button>
         </div>
     </div>
   )
